@@ -10,10 +10,10 @@ const OverScore2 = document.getElementById("OverAll2")
 
 const BlockPage = document.getElementById("Bloker");
 
-ScoreSpeaking.innerHTML = "7.5"
-ScoreWriting.innerHTML = "6.0"
-ScoreReading.innerHTML = "7.0"
-ScoreListeting.innerHTML = "8.0"
+ScoreSpeaking.innerHTML = "9.0"
+ScoreWriting.innerHTML = "8.0"
+ScoreReading.innerHTML = "8.0"
+ScoreListeting.innerHTML = "7.5"
 
 //PhoneNumber.innerHTML = prompt("Phone Number");
 var Spliten = PhoneNumber.innerHTML.split('');
