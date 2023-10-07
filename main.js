@@ -12,8 +12,8 @@ const BlockPage = document.getElementById("Bloker");
 
 ScoreSpeaking.innerHTML = "8.5"
 ScoreWriting.innerHTML = "7.5"
-ScoreReading.innerHTML = "8.0"
-ScoreListeting.innerHTML = "8.0"
+ScoreReading.innerHTML = "8.5"
+ScoreListeting.innerHTML = "7.5"
 
 //PhoneNumber.innerHTML = prompt("Phone Number");
 var Spliten = PhoneNumber.innerHTML.split('');
